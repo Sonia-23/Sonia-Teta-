@@ -1,2 +1,2 @@
 # Sonia-Teta-
-This is repository contains files that show and explain how I made a calculator
+This is a repository that contains files that show and explain how I worked on different projects like creating a calculator.
